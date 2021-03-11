@@ -1,0 +1,27 @@
+{
+  "name": "automated-crypto-trade",
+  "version": "1.0.0",
+  "description": "automated crypto trading",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamshashvat/automated-crypto-trade.git"
+  },
+  "keywords": [
+    "crypto",
+    "bot",
+    "automation",
+    "trading",
+    "blockchain"
+  ],
+  "author": "Shashvat Mohane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iamshashvat/automated-crypto-trade/issues"
+  },
+  "homepage": "https://github.com/Iamshashvat/automated-crypto-trade#readme"
+}
